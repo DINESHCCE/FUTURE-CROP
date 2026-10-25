@@ -1,0 +1,6 @@
+{
+  "name": "FutureCrop - Agricultural Market Price Prediction",
+  "description": "Smart Price Insights for Every Farmer. Modern agricultural market analytics, price forecasting, market comparison, and AI insights in English and Tamil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
